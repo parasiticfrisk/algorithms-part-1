@@ -41,7 +41,7 @@ By viewing and/or interacting with these files as a current or future student of
 [Deques and Randomized Queues]:assignment/queues
 [Collinear Points]:assignment/collinear
 [8 Puzzle]:assignment/8puzzle
-[Kd-Trees]:assignment/kdtrees
+[Kd-Trees]:assignment/kdtree
 <!-- specifications -->
 [spec01]:https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 [spec02]:https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php
